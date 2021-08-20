@@ -1,3 +1,3 @@
-# elm-boilerplate
+# elm-boilerplate-experiment
 
-Um boilerplate experimental com Elm 0.19, Web Components, Firebase, Webpack e Material Design Components.
+Experimental boilerplate with Elm 0.19, Web Components, Firebase, Webpack and Material Design Components.
