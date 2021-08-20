@@ -1,16 +1,13 @@
 {
-    "name": "elm-boilerplate",
+    "name": "elm-boilerplate-experiment",
     "version": "1.0.0",
-    "description": "",
+    "author": "egvelho",
+    "description": "Experimental boilerplate with Elm 0.19, Web Components, Firebase, Webpack and Material Design Components.",
     "scripts": {
         "dev": "webpack-dev-server --hot --colors",
         "prod": "webpack -p"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/egvelho/elm-boilerplate.git"
-    },
-    "license": "ISC",
+    "license": "GPL-3.0",
     "dependencies": {
         "@material/mwc-button": "0.8.0",
         "@material/mwc-checkbox": "0.8.0",
